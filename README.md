@@ -1,4 +1,8 @@
-### Hi there 👋
+Hello, Im William Velichko
+
+Im a Web Developer who has the skills of React, javascript, Html, Css, NodeJs, Express and more.
+I put all these skills to use created wonderful user applications for daily use.
+Tech industry is and will be my pride and grit. Im a person who accepts challenges and tries knew oppurtunities. Before I was in tech I did construction and did alot of physical labor and liked it but then I came upon a new oppurtunity and couldnt pass it up. I joined BloomTech and begun my tech journey.
 
 <!--
 **williamvelichko/williamvelichko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
