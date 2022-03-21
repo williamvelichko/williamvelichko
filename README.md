@@ -1,20 +1,16 @@
 Hello, Im William Velichko
 
-Im a Web Developer who has the skills of React, javascript, Html, Css, NodeJs, Express and more.
-I put all these skills to use created wonderful user applications for daily use.
-Tech industry is and will be my pride and grit. Im a person who accepts challenges and tries knew oppurtunities. Before I was in tech I did construction and did alot of physical labor and liked it but then I came upon a new oppurtunity and couldnt pass it up. I joined BloomTech and begun my tech journey.
+Im Currently a Full Stack Web developer who likes to wright code and create applications for peoples everyday use and needs. Im a former House renovator and Cabinet installer and a worker of multiple different trades.
 
-<!--
-**williamvelichko/williamvelichko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have jumped into the tech industry because this was an opportunity I couldn't resist, and I love to face challenges set up myself. Im intrigued to be working and applying my skills and knowledge in the tech industry. Ever since getting into the tech industry I am profound of how big and open this industry is.
 
-Here are some ideas to get you started:
+🤝 Im open to different opportunities so feel free to connect with me and send forward a message.
+✉️ Email: williamvelichko2003@gmail.com
+😊 Github: https://github.com/williamvelichko
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Skills include
+FrontEnd: Javascript, Html, CSS, ReactJs, Redux, Yup, ContextApi, End-to-End-Testing, Axios
+BackEnd: NodeJs, Express, SQL, Postgres, Knex, Heroku, Nelify, Versel, Git
+Character Skills: Problem Solver, TeamPlayer, Quick Learner, Adaptive Organizer, LeaderShip
+
+
