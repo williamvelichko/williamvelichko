@@ -6,7 +6,7 @@ I have jumped into the tech industry because this was an opportunity I couldn't 
 
 🤝 Im open to different opportunities so feel free to connect with me and send forward a message.
 ✉️ Email: williamvelichko2003@gmail.com
-😊 Github: //:github.com/williamvelichko
+😊 Github: https://github.com/williamvelichko
 Tech Skills include
 FrontEnd: Javascript, Html, CSS, ReactJs, Redux, Yup, ContextApi, End-to-End-Testing, Axios
 BackEnd: NodeJs, Express, SQL, Postgres, Knex, Heroku, Nelify, Versel, Git
