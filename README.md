@@ -1,4 +1,4 @@
-Hello, Im William Velichko
+<h1>Hello, Im William Velichko</h1>
 
 Im Currently a Full Stack Web developer who likes to wright code and create applications for peoples everyday use and needs. Im a former House renovator and Cabinet installer and a worker of multiple different trades.
 
@@ -7,7 +7,7 @@ I have jumped into the tech industry because this was an opportunity I couldn't 
 🤝 Im open to different opportunities so feel free to connect with me and send forward a message.
 ✉️ Email: williamvelichko2003@gmail.com
 😊 Github: https://github.com/williamvelichko
-
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" url=' https://github.com/williamvelichko' />
 Tech Skills include
 FrontEnd: Javascript, Html, CSS, ReactJs, Redux, Yup, ContextApi, End-to-End-Testing, Axios
 BackEnd: NodeJs, Express, SQL, Postgres, Knex, Heroku, Nelify, Versel, Git
