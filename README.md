@@ -1,8 +1,8 @@
 <h1>Hello, Im William Velichko</h1>
 
-Im Currently a Full Stack Web developer who likes to wright code and create applications for peoples everyday use and needs. Im a former House renovator and Cabinet installer and a worker of multiple different trades.
+I am Currently a Full Stack Web developer who likes to write code and create applications for everyones daily needs. I am a former house renovator and cabinet installer and a worker of multiple different trades. I dont like doing nothing and I'll always find something exiting to do. I am an athlete and play multiple different sports like volleyball, basketball, and soccer. I also like music and play clarinet and I am a choir conductor. My birthplace is United States but speak fluent Russian, and English.
 
-I have jumped into the tech industry because this was an opportunity I couldn't resist, and I love to face challenges set up myself. Im intrigued to be working and applying my skills and knowledge in the tech industry. Ever since getting into the tech industry I am profound of how big and open this industry is.
+ I had to make a big change of speciality from working outdoors and doing physical labor into learning and creating web applications. I have jumped into the tech industry because this was an opportunity I couldn't resist, and I love to face challenges that will open more opportunities for me. Im intrigued to be working and applying my skills and knowledge in the tech industry. Ever since getting into the tech industry I am profound of how big and open this industry is.
 
 🤝 Im open to different opportunities so feel free to connect with me and send forward a message.
 ✉️ Email: williamvelichko2003@gmail.com
